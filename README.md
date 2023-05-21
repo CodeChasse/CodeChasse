@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 💬 Ask me about **c++,js,html,css,python**
+- 💬 Ask me about **c++,js,html,css,python.C#**
 
 - 📫 How to reach me **Sc:Mukarra_khan**
 
